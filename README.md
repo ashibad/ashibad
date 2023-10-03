@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [Crescendo.tk](https://crescendo.tk/)
 
-- 🌱 I’m currently learning **Android Penetration Testing**
-
-- 👨‍💻 All of my projects are available at [https://ashibad.github.io/](https://ashibad.github.io/)
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Cyber security**
 
